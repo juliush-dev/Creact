@@ -1,0 +1,6 @@
+.carouselImgCollection {
+  transition: transform 330ms ease-in-out;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+}
